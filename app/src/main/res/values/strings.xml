@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UniversityLocations</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
